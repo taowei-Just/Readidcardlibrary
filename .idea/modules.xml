@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Readidcardlibrary.iml" filepath="$PROJECT_DIR$/Readidcardlibrary.iml" />
+      <module fileurl="file://H:\Development_Project\GitHub\MyGitHub\Readidcardlibrary\Readidcardlibrary.iml" filepath="H:\Development_Project\GitHub\MyGitHub\Readidcardlibrary\Readidcardlibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://H:\Development_Project\GitHub\MyGitHub\Readidcardlibrary\app\app.iml" filepath="H:\Development_Project\GitHub\MyGitHub\Readidcardlibrary\app\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/readidcardlibrary/readidcardlibrary.iml" filepath="$PROJECT_DIR$/readidcardlibrary/readidcardlibrary.iml" />
+    </modules>
+  </component>
+</project>
